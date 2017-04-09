@@ -1,4 +1,4 @@
-![Logo](https://github.com/Engylizium/ESwitch/blob/master/ESwitch.png)
+![Logo](https://github.com/Engylizium/ESwitch/blob/master/logo.png)
 # ESwitch
 Fully customizable Switch for iOS instead of standart one.
 
